@@ -4980,11 +4980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nishantg/Downloads/ArmyBackend/ArmyBackend.csproj",
+      "projectUniqueName": "/Users/nishantg/Downloads/JoinForce/ArmyBackend/ArmyBackend.csproj",
       "projectName": "ArmyBackend",
-      "projectPath": "/Users/nishantg/Downloads/ArmyBackend/ArmyBackend.csproj",
+      "projectPath": "/Users/nishantg/Downloads/JoinForce/ArmyBackend/ArmyBackend.csproj",
       "packagesPath": "/Users/nishantg/.nuget/packages/",
-      "outputPath": "/Users/nishantg/Downloads/ArmyBackend/obj/",
+      "outputPath": "/Users/nishantg/Downloads/JoinForce/ArmyBackend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nishantg/.nuget/NuGet/NuGet.Config"
